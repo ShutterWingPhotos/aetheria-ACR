@@ -1,0 +1,20 @@
+{
+  "arrive_east_sea_station": {
+    "category": "record",
+    "sounds": [
+      "mtr:arrive_east_sea_station"
+    ]
+  },
+  "train_heading_aetheria_city": {
+    "category": "record",
+    "sounds": [
+      "mtr:train_heading_aetheria_city"
+    ]
+  },
+  "ambient_subway": {
+    "category": "record",
+    "sounds": [
+      "mtr:ambient_subway"
+    ]
+  }
+}
